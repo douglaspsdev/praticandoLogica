@@ -1,0 +1,2 @@
+# praticandoLogica
+projetoFinalDoCursoDeJavaScript
